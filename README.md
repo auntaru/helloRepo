@@ -1,4 +1,4 @@
-# helloRepo
+# helloCouchDB
 
 http://javafordevelopment.blogspot.com/2018/04/couchdb-java-client-examples.html
 https://github.com/ramazancoool/helloRepo/tree/master/CouchDbExample
